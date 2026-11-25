@@ -310,3 +310,6 @@ body {
     height: 400px;
     object-fit: contain;
 }
+.filter {
+    baclground-color: #F5F5F5;
+}
